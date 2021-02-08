@@ -1,4 +1,4 @@
-module.exports = {
+export default {
     parser: "babel-eslint",
     "env": {
         "browser": true,
